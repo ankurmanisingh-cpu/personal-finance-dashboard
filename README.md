@@ -1,17 +1,11 @@
-# Personal Finance Dashboard
+## Personal Finance Dashboard
 
-A responsive personal finance dashboard built using HTML, CSS, and JavaScript.
+A responsive web app to manage income and expenses efficiently.
 
-## Features
-- Add income and expenses
-- View total balance
-- Simple and clean UI
-- Fully responsive design
+### 🔗 Live Demo
+https://personal-finance-dashboard-ankur.netlify.app
 
-## Tech Stack
+### 💻 Tech Stack
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo
-https://enchanting-phoenix-a57b13.netlify.app
