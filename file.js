@@ -64,4 +64,5 @@ function updateLocalStorage() {
   localStorage.setItem("transactions", JSON.stringify(transactions));
 }
 
+
 renderTransactions();
